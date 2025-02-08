@@ -13,7 +13,7 @@ This project aims to predict car prices using various regression models. The dat
 -Split data into training and testing sets
 -Scaled numerical features
 
--**Model Implementation:** 
+-**2. Model Implementation:** 
 
 Implement five regression models:
 
@@ -23,13 +23,13 @@ Implement five regression models:
 -Gradient Boosting Regressor
 -Support Vector Regressor
 
--**Model Evaluation:** 
+-**3. Model Evaluation:** 
 Compare models using R² score, MSE, and MAE.
 
--**Feature Importance Analysis:** 
+-**4. Feature Importance Analysis:** 
 Identifying the most important features.
 
--**Hyperparameter Tuning:** 
+-**5. Hyperparameter Tuning:** 
 Optimize model parameters using GridSearchCV.
 
 
